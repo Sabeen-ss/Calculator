@@ -10,7 +10,7 @@ const Heading = () => {
       style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif' }}
     >
       {/* headings part */}
-      <div className=" flex flex-col text-left space-y-2 sm:space-y-0 mt-12 sm:justify-start sm:items-start sm:text-left md:text-center md:justify-center md:items-center lg:text-left lg:justify-start lg:items-start ">
+      <div className=" flex flex-col text-left  sm:space-y-0 mt-12 sm:justify-start sm:items-start sm:text-left md:text-center md:justify-center md:items-center lg:text-left lg:justify-start lg:items-start ">
         <h1 className="font-extrabold text-4xl text-[#3A1F5E] sm:text-4xl md:text-4xl lg:text-6xl">Simple</h1>
         <h1 className="font-extrabold text-4xl text-[#3A1F5E] sm:text-4xl md:text-4xl lg:text-6xl ">Calculator</h1>
         <p className="font-bold text-3xl text-[#5E4985] sm:text-3xl md:text-3xl lg:text-5xl">Using JavaScript</p>
